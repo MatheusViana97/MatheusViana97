@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>****
+
 <h2 align="left">Ola👋! <br>Meu nome é Matheus Viana, tenho 28 anos, sou residente de São Paulo.<br>Pretendo me tornar um cientista de dados e atualmente trabalho na Moveis Bartira.</h2>
 
 ###
@@ -19,6 +21,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MatheusViana97/MatheusViana97/output/snake.svg" alt="Snake animation" />
 
 ###
